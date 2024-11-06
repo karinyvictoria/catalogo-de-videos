@@ -1,5 +1,26 @@
 body{
-    color:rgb(217, 178, 253)
+    color:rgb(217, 178, 253);
     background: white;
+    margin: 0px;
 
+}
+
+header{
+    border-bottom: solid 2px rgb(40, 131, 250);
+    padding: 20px;
+    font-size:32px ;
+    color:rgb(165, 88, 236)
+}
+
+section{
+    background:
+    padding-top;color: blueviolet 80px;
+    padding-bottom;
+    display:flex;
+    justify-content:center;
+
+}
+
+chamada-texto{
+    margin-right: 5%;
 }
