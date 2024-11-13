@@ -2,6 +2,7 @@ body{
     color:rgb(217, 178, 253);
     background: white;
     margin: 0px;
+    font-family: "Rubik Distressed", system-ui;
 
 }
 
@@ -23,4 +24,10 @@ section{
 
 chamada-texto{
     margin-right: 5%;
+}
+h1{font-size: 40px;
+
+}
+p{
+    font-size: 24px;
 }
